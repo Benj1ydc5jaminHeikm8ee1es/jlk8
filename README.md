@@ -6,3 +6,4 @@ Improve performance [bRQHSP] line 13.1
 Add test case for W [RT3dua] line 16.2
 Add test case for W [HeIoTX] line 1.2
 Update documentation [ZAAMoC] line 2.3
+Add feature for X [SEKaBQ] line 5.1
