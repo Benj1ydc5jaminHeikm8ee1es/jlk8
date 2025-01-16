@@ -11,3 +11,4 @@ Add test case for W [GtC8dF] line 6.1
 Add feature for X [lunl8B] line 7.3
 Improve performance [cmoKay] line 8.2
 Improve performance [cmoKay] line 8.3
+Add test case for W [tyUO1p] line 13.1
