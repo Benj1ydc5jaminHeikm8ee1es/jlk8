@@ -8,3 +8,4 @@ Add test case for W [HeIoTX] line 1.2
 Update documentation [ZAAMoC] line 2.3
 Add feature for X [SEKaBQ] line 5.1
 Improve performance [cmoKay] line 8.1
+Update documentation [D3Ixux] line 11.2
