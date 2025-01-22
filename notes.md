@@ -13,3 +13,4 @@ Improve performance [cmoKay] line 8.2
 Improve performance [cmoKay] line 8.3
 Add test case for W [tyUO1p] line 13.1
 Update documentation [Pqq6wh] line 14.2
+Add feature for X [FMEljI] line 16.3
