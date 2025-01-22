@@ -5,3 +5,4 @@ Update documentation [1uEyPD] line 15.1
 Update documentation [1uEyPD] line 15.2
 Add test case for W [HeIoTX] line 1.1
 Add test case for W [GtC8dF] line 6.2
+Add feature for X [lunl8B] line 7.2
