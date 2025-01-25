@@ -7,3 +7,4 @@ Improve performance [bRQHSP] line 13.3
 Add test case for W [RT3dua] line 16.1
 Add test case for W [RT3dua] line 16.3
 Update documentation [urSAl9] line 4.2
+Add test case for W [GtC8dF] line 6.1
